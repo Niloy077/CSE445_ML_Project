@@ -1,4 +1,4 @@
-Number of Doctors Visited,Age,Phyiscal Health,Mental Health,Dental Health,Employment,Stress Keeps Patient from Sleeping,Medication Keeps Patient from Sleeping,Pain Keeps Patient from Sleeping,Bathroom Needs Keeps Patient from Sleeping,Uknown Keeps Patient from Sleeping,Trouble Sleeping,Prescription Sleep Medication,Race,Gender
+Number of Doctors Visited,Age,Physical Health,Mental Health,Dental Health,Employment,Stress Keeps Patient from Sleeping,Medication Keeps Patient from Sleeping,Pain Keeps Patient from Sleeping,Bathroom Needs Keeps Patient from Sleeping,Uknown Keeps Patient from Sleeping,Trouble Sleeping,Prescription Sleep Medication,Race,Gender
 3,2,4,3,3,3,0,0,0,0,1,2,3,1,2
 2,2,4,2,3,3,1,0,0,1,0,3,3,1,1
 3,2,3,2,3,3,0,0,0,0,1,3,3,4,1
