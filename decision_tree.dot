@@ -1,9 +1,0 @@
-digraph Tree {
-node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
-edge [fontname="helvetica"] ;
-0 [label="Physical Health_4 <= 0.5\ngini = 0.606\nsamples = 571\nvalue = [103, 298, 170]\nclass = 2-3 doctors", fillcolor="#c0f7d7"] ;
-1 [label="gini = 0.601\nsamples = 472\nvalue = [91, 254, 127]\nclass = 2-3 doctors", fillcolor="#b6f5d1"] ;
-0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="gini = 0.599\nsamples = 99\nvalue = [12, 44, 43]\nclass = 2-3 doctors", fillcolor="#fbfffd"] ;
-0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
-}
